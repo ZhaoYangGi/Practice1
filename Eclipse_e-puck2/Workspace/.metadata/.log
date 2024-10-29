@@ -1655,3 +1655,13 @@ Don't know how to attach.  Try "help target".
 java.lang.Exception: Don't know how to attach.  Try "help target".
 	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
 	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+!SESSION 2024-10-29 11:09:05.229 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_382
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product -data Workspace
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-10-29 11:09:06.092
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
